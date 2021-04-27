@@ -1,0 +1,5 @@
+
+
+- Drop down af skolerne med mere end én skole
+- Hvordan man laver en oversigt for admin, alt efter hvilken employee han vælger (dropdown?)
+- Database over arbejdstimer for hver emplyee (kan den sorteres efter navn?)
